@@ -1,8 +1,8 @@
 server:
-  port: 9091
+  port: 9092
 spring:
   application:
-    name: leadnews-app-gateway
+    name: leadnews-wemedia-gateway
   cloud:
     nacos:
       discovery:
